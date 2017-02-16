@@ -1,0 +1,11 @@
+c:\users\mohammed\documents\visual studio 2017\Projects\ShapesAndContainers\ShapesAndContainers\bin\Debug\ShapesAndContainers.exe
+c:\users\mohammed\documents\visual studio 2017\Projects\ShapesAndContainers\ShapesAndContainers\bin\Debug\ShapesAndContainers.pdb
+c:\users\mohammed\documents\visual studio 2017\Projects\ShapesAndContainers\ShapesAndContainers\bin\Debug\ShapesAndContainers.xml
+c:\users\mohammed\documents\visual studio 2017\Projects\ShapesAndContainers\ShapesAndContainers\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+c:\users\mohammed\documents\visual studio 2017\Projects\ShapesAndContainers\ShapesAndContainers\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+c:\users\mohammed\documents\visual studio 2017\Projects\ShapesAndContainers\ShapesAndContainers\obj\Debug\ShapesAndContainers.Form1.resources
+c:\users\mohammed\documents\visual studio 2017\Projects\ShapesAndContainers\ShapesAndContainers\obj\Debug\ShapesAndContainers.Resources.resources
+c:\users\mohammed\documents\visual studio 2017\Projects\ShapesAndContainers\ShapesAndContainers\obj\Debug\ShapesAndContainers.vbproj.GenerateResource.Cache
+c:\users\mohammed\documents\visual studio 2017\Projects\ShapesAndContainers\ShapesAndContainers\obj\Debug\ShapesAndContainers.exe
+c:\users\mohammed\documents\visual studio 2017\Projects\ShapesAndContainers\ShapesAndContainers\obj\Debug\ShapesAndContainers.xml
+c:\users\mohammed\documents\visual studio 2017\Projects\ShapesAndContainers\ShapesAndContainers\obj\Debug\ShapesAndContainers.pdb
